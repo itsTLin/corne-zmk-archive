@@ -26,7 +26,7 @@
 &mt ESCAPE TAB       &kp Q           &kp W           &kp F             &kp P         &kp B        &kp J    &kp L        &kp U              &kp Y            &kp SEMICOLON    &kp EQUAL
 &mt LCTRL BACKSPACE  &mt LEFT_GUI A  &mt LEFT_ALT R  &mt LEFT_SHIFT S  &mt LCTRL T   &kp G        &kp M    &mt RCTRL N  &mt RIGHT_SHIFT E  &mt RIGHT_ALT I  &mt RIGHT_GUI O  &kp SQT
 &kp MINUS            &kp Z           &kp X           &kp C             &kp D         &kp V        &kp K    &kp H        &kp COMMA          &kp DOT          &kp FSLH         &kp NON_US_BACKSLASH
-                                                     &kp SYSREQ        &lt 1 DELETE  &lt 2 TAB    &kp RET  &kp SPACE    &kp CAPSLOCK
+                                                     &kp SYSREQ        &lt 2 DELETE  &lt 1 TAB    &kp RET  &kp SPACE    &kp CAPSLOCK
             >;
         };
 
