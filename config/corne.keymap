@@ -12,14 +12,12 @@
 &mt { flavor = "tap-preferred"; };
 
 / {
-    behaviors {
-        cpw: cpw {
-            compatible = "zmk,behavior-caps-word";
-            label = "CPW";
-            #binding-cells = <0>;
-            continue-list = <UNDERSCORE>;
-        };
-    };
+    combos {
+        compatible = "zmk,combos";
+        esclamation {
+            timeout-ms = <50>;
+            key-positions = <2 14>;
+            bindings = <&kp EXCLAMATION>;
 
     keymap {
         compatible = "zmk,keymap";
